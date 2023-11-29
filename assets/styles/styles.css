@@ -1,0 +1,48 @@
+.mover-texto {
+    margin-left: 350px; 
+  }
+
+.page {
+    width: 21cm;
+    height: 26cm;
+    margin: 2cm auto;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(201, 17, 17, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.rectangulo {
+  width: 300px; /* ajusta el ancho según tus necesidades */
+  height: 900px; /* ajusta la altura según tus necesidades */
+  background-color: #66037a; /* color del rectángulo */
+  border: 2px solid purple; /* color del borde */
+  margin-top: -900px;
+}
+
+.mover-derecha {
+  margin-left: 70px;
+}
+
+.mover-arriba {
+  margin-bottom:70px;
+}
+
+.mover-abajo {
+  margin-top: 70;
+}
+
+.text-negrita{
+  font-weight: bold;
+  font-family: "Times New Roman", serif; /* Cambia "Arial" por la fuente que prefieras */
+  font-size: 16px;
+  color: white;
+}
+
+.cell-header {
+  text-align: justify;
+}
+
+.color-white{
+  color: white;
+}
